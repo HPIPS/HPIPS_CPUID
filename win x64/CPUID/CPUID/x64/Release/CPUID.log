@@ -1,0 +1,6 @@
+﻿  asm-bits.c
+  cpuid_main.c
+  libcpuid_util.c
+  recog_amd.c
+  recog_intel.c
+  CPUID.vcxproj -> C:\Users\HPIPS\source\repos\HPIPS_CPUID\win x86\CPUID\x64\Release\CPUID.lib
